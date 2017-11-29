@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/75361755eec0c3a7b6538a5050ba46624ba367b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dab042ccb0de82a123f475c5dd2cf5c08b90bb15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/b340c86a01b65cb72b885396a5365723d9a3ef0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b611590c08ccadb024a5d5d23d11452f741f3b90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/405a037b29231b70156e13cc6bbec457dfa669be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11d1021e71e883210a0d3fc354486a7e31a95918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/ccafe144baa090c41387293abd38858d0dc69cc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_362a06b91434c9aebbc28f62d1cbfb7e2b3d00e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/a1c38c75e82cc2afa892b4c2b6df258340826998/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05306a8f7d4e5b5282c55391b4f5cc883af28cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/1b89a4949110a0f40a5c261415e71b5138c64bf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f89960d784d88109c28344a33cb4d48b8c4f8adc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_38b9b75ea5692892ceeb0ae64b24a18cc8b08cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/toni/.android/build-cache/ccafe144baa090c41387293abd38858d0dc69cc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/pre-dexed/debug/classes_362a06b91434c9aebbc28f62d1cbfb7e2b3d00e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/681514d982ffb08466a2ad36588458b3fc0fdb38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98b456c788775f80b688ad0cf2e1d1718331ad85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3344d2c7b59dc2d64d5e6e6c685d8cb29e70acc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/toni/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/pre-dexed/debug/core-3.2.1_38b9b75ea5692892ceeb0ae64b24a18cc8b08cc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/1e77c80e0ae130a37d69d829582b346070326ee7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_350c816d210b6576fd8e57b7b3296b14cc9cb88c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/02e04c9a949f0846673072f7469c847f80f7e94b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af72eb98a2b5a091e1b3d1d8b8b5e98e695d6a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/8a28bc40f30ba4d18cca15350f7e0ef995b2db44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5b604731f9da8c1215b92aa7ddc76a72df364fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ea963db27419425578f4c42abe00e9fdc8a464f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/b8eea9a7ad84afc38ddccaea615d415c3a487b82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f112f50aa33ee4c0f202a7b061f2d53bc37cd3e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50b3d3048d3fcaf4468226218e5d1e397e1a39c7">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10969b3a4e8551863fb505dd74b9332a7a6039d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/toni/.android/build-cache/a63513b3e4b24450c52f31f92cb5f409cddbd585/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/pre-dexed/debug/classes_da2a9d1aa15c3d08e3987093ea106494f4017339.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_4f2f01df6bdd5949cdbee54b3fac94640dabcdf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/toni/.android/build-cache/a63513b3e4b24450c52f31f92cb5f409cddbd585/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/toni/AndroidStudioProjects/PKQRScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da2a9d1aa15c3d08e3987093ea106494f4017339/classes.dex" />
+    </item>
+
+</items>
